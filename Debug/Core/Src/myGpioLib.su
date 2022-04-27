@@ -1,0 +1,4 @@
+../Core/Src/myGpioLib.c:18:6:init_GPIO	24	static
+../Core/Src/myGpioLib.c:74:5:read_GPIO	8	static
+../Core/Src/myGpioLib.c:84:6:write_GPIO	8	static
+../Core/Src/myGpioLib.c:93:5:read_B1	8	static
